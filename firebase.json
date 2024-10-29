@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "netflixgpt-manjot",
+    "site": "netflixgpt-manas",
     "public": "build",
     "ignore": [
       "firebase.json",
