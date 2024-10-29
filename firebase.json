@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "netflixgpt-manjot",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
